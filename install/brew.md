@@ -25,6 +25,7 @@ brew install --cask github
 brew install --cask beyond-compare
 brew install --cask openinterminal
 brew install --cask rectangle
+brew install --cask karabiner-elements
 
 # Package
 brew install go
