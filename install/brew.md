@@ -25,6 +25,7 @@ brew install --cask typora
 brew install --cask github
 brew install --cask beyond-compare
 brew install --cask openinterminal
+brew install --cask docker
 brew install --cask rectangle
 brew install --cask karabiner-elements
 
