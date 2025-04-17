@@ -29,6 +29,8 @@ brew install --cask docker
 brew install --cask rectangle
 brew install --cask karabiner-elements
 
+brew install --cask dbeaver-community
+
 # Package
 brew install go
 brew install nvm
