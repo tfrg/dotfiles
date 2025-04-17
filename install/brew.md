@@ -32,6 +32,7 @@ brew install --cask karabiner-elements
 brew install --cask dbeaver-community
 
 # Package
+brew install mysql
 brew install go
 brew install nvm
 brew install gh
