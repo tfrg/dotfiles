@@ -11,6 +11,7 @@ brew analytics off - # Disable analytics
 # Application
 brew install --cask google-chrome
 brew install --cask firefox
+brew install --cask brave-browser
 brew install --cask visual-studio-code
 brew install --cask zed
 brwe install --cask webstorm
