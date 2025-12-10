@@ -39,6 +39,7 @@ brew install go
 brew install nvm
 brew install gh
 brew install zsh
+brew install tree
 
 brew install jq
 brew install tree
